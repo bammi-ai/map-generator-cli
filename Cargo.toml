@@ -1,0 +1,7 @@
+[package]
+name = "bammi-ai-map-generator-cli"
+publish = false
+version = "0.1.0"
+
+[dependencies]
+bammi-ai-map-generator = { path = "../map-generator" }
